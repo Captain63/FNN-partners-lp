@@ -1,0 +1,38 @@
+body {
+	font-family:'Lato', sans-serif;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+	margin-top:0;
+	margin-bottom:10px;
+}
+
+h1 { 
+	margin:0;
+	font-weight:900;
+	font-size:24px;
+	line-height:32px;
+}
+
+h2 { 
+	margin:0;
+	font-weight:900;
+	font-size:18px;
+	line-height:26px;
+}
+
+h3, h4, h5, h6 {
+        margin:0;
+        font-weight:900;
+        font-size:14px;
+        line-height:22px;
+}
+
+/**** 
+Overrides for http://www.carahsoft.com/vendors/salesforce#appexchange
+****/
+#accd__id-16012 .accd__ctrl .accd__toggle { 
+		text-transform: none !important;
+	} 
+ 
+ 
