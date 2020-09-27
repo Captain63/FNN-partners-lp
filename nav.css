@@ -593,7 +593,7 @@
 /*Footer*/ 
 #footer { 
 	border-top:7px solid #666;
-	background-image:url('/Images/Footer/bg-footer.png');	
+	background-image:url('https://captain63.github.io/FNN-partners-lp/Images/Footer/bg-footer.png');	
 }
 
 #footer .column .heading {
@@ -766,7 +766,7 @@ ul.list p { margin:0; }
 }
 .footer-nav ul li {
 	padding:0 10px 0 12px;
-	background:url(../img/nav-divider.png) no-repeat 0 3px;
+	background:url('https://captain63.github.io/FNN-partners-lp/Images/Footer/nav-divider.png') no-repeat 0 3px;
 	float:left;
 }
 .footer-nav ul li:first-child {
@@ -810,7 +810,7 @@ ul.list p { margin:0; }
     display:block;
     text-indent:-9000px;
     overflow:hidden;
-    background:url(../img/sprite.png) no-repeat;
+    background:url('https://captain63.github.io/FNN-partners-lp/Images/Footer/sprite.png') no-repeat;
 }
 @media only screen and (max-width:767px) {
 	.social-networks {
