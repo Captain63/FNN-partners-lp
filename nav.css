@@ -593,7 +593,7 @@
 /*Footer*/ 
 #footer { 
 	border-top:7px solid #666;
-	background-image:url('../img/bg-footer.png');	
+	background-image:url('/Images/Footer/bg-footer.png');	
 }
 
 #footer .column .heading {
